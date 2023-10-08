@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>Tugas Praktikum</title>
+    </head>
+    <body>
+        <h1 align=center>STT Terpadu Nurul Fikri</h1>
+        <h2 align=center>Tugas Praktikum Pemograman Web1(Bapak Sirojul Munir)</h2>
+        <hr>
+    </body>
+    <body>
+        <h3 align=center>CURICCULUM VITAE</h3>
+    </body>
+    <body align=center>
+        <img src="IMG-20230821-WA0107.jpg" width="250" height="250">
+    </body>
+    <table height="250" align=center border=3>
+        <caption>Biodata</caption>
+        <tr>
+            <td colspan="2">Nama</td>
+            <td colspan="2">Muhammad Danish Suju Maula</td>
+        </tr>
+        <tr>
+            <td colspan="2">Prodi</td>
+            <td colspan="2">Sistem Informasi</td>
+        </tr>
+        <tr>
+            <td colspan="2">Tmpt/Tgl/Lahir</td>
+            <td colspan="2">Bogor,Cibinong 04 April 2005</td>
+        </tr>
+        <tr>
+            <td colspan="2">Jenis Kelamin</td>
+            <td colspan="2">Laki-Laki</td>
+        </tr>
+        <tr>
+            <td colspan="2">Asal Sekolah</td>
+            <td colspan="2">Istana Penghafal Al-Quran dan Al-Hadits Abu Hurairah</td>
+        </tr>
+    </table>
+    <table height="150" align=center border=3>
+        <caption>lainnya</caption>
+        <tr>
+            <td>Kemampuan</td>
+            <td>Pengalaman</td>
+            <td>hafalan</td>
+        </tr>
+        <tr>
+            <td>Hafalan 1 hari 1 halaman</td>
+            <td>Menjadi Mushrif di 3 divisi kelas</td>
+            <td>10 juz</td>
+        </tr>
+    </table>
+    <table height="100" align=center border=3>
+            <caption>Sosial Media</caption>
+            <tr>
+                <td>Instagram</td>
+                <td align="center"><a href="https://instagram.com/pikiranmaula?igshid=MmU2YjMzNjRlOQ==">@pikiranmaula</a></td>
+                <td>Whatsapp</td>
+                <td>0852-1055-9123</td>
+            </tr>
+    </table>
+    <hr>
+    <body align=center>
+        <h6>Sekian Curicculum Vitae dari saya,apabila terdapat kebenaran didalamnya,semoga bisa memberikan manfaat untuk diri saya sendiri dan pembaca,dan apabila terdapat kesalahan,harap dimaafkan,dan silahkan melakukan semacam kritikan disini.</h6>
+        <p><a href="https://ngl.link/muhdanishsujumaula1">kriktik</a></p>
+    </body>
+</html>
